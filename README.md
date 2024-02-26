@@ -1,5 +1,6 @@
 # sqlFirstTask
-
+## Bu repo [Patika.dev](https://www.patika.dev) tarafından verilen `SQL` ödevini içermektedir.
+---
 ## Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
 ### film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
